@@ -1,0 +1,24 @@
+C:\Users\Anony\Desktop\AutoFile\AutoFile\obj\Debug\AutoFile.Form1.resources
+C:\Users\Anony\Desktop\AutoFile\AutoFile\obj\Debug\AutoFile.Resources.resources
+C:\Users\Anony\Desktop\AutoFile\AutoFile\obj\Debug\AutoFile.vbproj.GenerateResource.Cache
+C:\Users\Anony\Desktop\AutoFile\AutoFile\obj\Debug\AutoFile.vbprojResolveAssemblyReference.cache
+C:\Users\Anony\Desktop\AutoFile\AutoFile\obj\Debug\AutoFile.Form2.resources
+C:\Users\Anony\Desktop\AutoFile\AutoFile\bin\Debug\AutoFile.exe.config
+C:\Users\Anony\Desktop\AutoFile\AutoFile\bin\Debug\AutoFile.exe
+C:\Users\Anony\Desktop\AutoFile\AutoFile\bin\Debug\AutoFile.pdb
+C:\Users\Anony\Desktop\AutoFile\AutoFile\bin\Debug\AutoFile.xml
+C:\Users\Anony\Desktop\AutoFile\AutoFile\obj\Debug\AutoFile.exe
+C:\Users\Anony\Desktop\AutoFile\AutoFile\obj\Debug\AutoFile.xml
+C:\Users\Anony\Desktop\AutoFile\AutoFile\obj\Debug\AutoFile.pdb
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\obj\Debug\AutoFile.vbprojResolveAssemblyReference.cache
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\obj\Debug\AutoFile.Form1.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\obj\Debug\AutoFile.Form2.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\obj\Debug\AutoFile.Resources.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\obj\Debug\AutoFile.vbproj.GenerateResource.Cache
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\bin\Debug\AutoFile 1.0 RC2.exe.config
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\bin\Debug\AutoFile 1.0 RC2.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\bin\Debug\AutoFile 1.0 RC2.pdb
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\bin\Debug\AutoFile 1.0 RC2.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\obj\Debug\AutoFile 1.0 RC2.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\obj\Debug\AutoFile 1.0 RC2.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\AutoFile\AutoFile\obj\Debug\AutoFile 1.0 RC2.pdb

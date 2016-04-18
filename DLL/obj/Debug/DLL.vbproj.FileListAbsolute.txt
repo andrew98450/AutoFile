@@ -1,0 +1,10 @@
+C:\Users\Anony\Desktop\AutoFile\DLL\bin\Debug\DLL.exe.config
+C:\Users\Anony\Desktop\AutoFile\DLL\bin\Debug\DLL.exe
+C:\Users\Anony\Desktop\AutoFile\DLL\bin\Debug\DLL.pdb
+C:\Users\Anony\Desktop\AutoFile\DLL\bin\Debug\DLL.xml
+C:\Users\Anony\Desktop\AutoFile\DLL\obj\Debug\DLL.Form1.resources
+C:\Users\Anony\Desktop\AutoFile\DLL\obj\Debug\DLL.Resources.resources
+C:\Users\Anony\Desktop\AutoFile\DLL\obj\Debug\DLL.vbproj.GenerateResource.Cache
+C:\Users\Anony\Desktop\AutoFile\DLL\obj\Debug\DLL.exe
+C:\Users\Anony\Desktop\AutoFile\DLL\obj\Debug\DLL.xml
+C:\Users\Anony\Desktop\AutoFile\DLL\obj\Debug\DLL.pdb
